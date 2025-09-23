@@ -15,35 +15,6 @@ It implements the Language Server Protocol (LSP) for Kotlin, enabling features l
 
 ---
 
-## Project Structure
-kotlin-lsp-plugin/
-├── client/
-│   ├── src/
-│   │   └── main/
-│   │       └── kotlin/
-│   │           └── com/
-│   │               └── example/
-│   │                   └── kotlinlspclient/
-│   │                       └── Extension.kt
-│   ├── package.json
-│   ├── tsconfig.json
-│   └── webpack.config.js
-├── server/
-│   ├── src/
-│   │   └── main/
-│   │       └── kotlin/
-│   │           └── com/
-│   │               └── example/
-│   │                   └── kotlinlspserver/
-│   │                       ├── Main.kt
-│   │                       └── LanguageServer.kt
-│   ├── build.gradle.kts
-│   └── settings.gradle.kts
-├── README.md
-└── .gitignore
-
----
-
 ## Getting Started
 
 ### Prerequisites
