@@ -16,7 +16,6 @@ It implements the Language Server Protocol (LSP) for Kotlin, enabling features l
 ---
 
 ## Project Structure
-
 kotlin-lsp-plugin/
 ├── client/
 │   ├── src/
