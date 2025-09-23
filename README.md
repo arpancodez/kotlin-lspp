@@ -43,8 +43,6 @@ kotlin-lsp-plugin/
 ├── README.md
 └── .gitignore
 
-text
-
 ---
 
 ## Getting Started
